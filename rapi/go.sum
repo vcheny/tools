@@ -1,0 +1,8 @@
+github.com/vcheny/golib v0.0.0-20230521024957-f70c57133005 h1:hJ7ctURhVQQNNu14lFLo6Ik0Bb9bnUjQCeXr5S1FGPM=
+github.com/vcheny/golib v0.0.0-20230521024957-f70c57133005/go.mod h1:lA6Inzs1KClBaJbxIZDNv+Ld5fYjIYLL8r3Q4BNCScc=
+github.com/vcheny/golib v0.0.0-20230521033403-099b5e80c603 h1:eF/NHZBJfIdCOpkw35cE/jKx6kTY2UcMO8Y8bGAZMiA=
+github.com/vcheny/golib v0.0.0-20230521033403-099b5e80c603/go.mod h1:e2MeJz6xms3z91bIG6+ZTXdza2M7xiZnIlCWFyEFrPQ=
+github.com/vcheny/tools v0.0.0-20230521014217-51e206659f0c h1:xBVrOteqemQ+oPjfqEv66LN5IarvDAr/2Pqrs+eBah8=
+github.com/vcheny/tools v0.0.0-20230521014217-51e206659f0c/go.mod h1:0JUa8dy1+mHoMX9eDfV/gF4DBJEoD81q0O7kv4xpPYo=
+github.com/vcheny/tools/golib v0.0.0-20230521031415-ae03a2da7c99 h1:6BRhAnjyFdfPX6vfGaXxUbXti+2eItr/fPCPGBAY0rc=
+github.com/vcheny/tools/golib v0.0.0-20230521031415-ae03a2da7c99/go.mod h1:FAtJ1kE39BoF/NANijrdBE6jMF97LicwVE9C3CosJwM=
